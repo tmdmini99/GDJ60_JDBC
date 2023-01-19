@@ -20,9 +20,10 @@ public class JDBCMain {
 			//dao.getList();
 			//dao1.getList();
 			//dao1.getDetail(2100);
-			dc.start();
+			//dc.start();
 			//lc.start();
 			//ec.start();
+			
 			
 			
 			
